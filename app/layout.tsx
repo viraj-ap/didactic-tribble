@@ -11,7 +11,7 @@ const geistSans = DM_Sans({
 
 export const metadata: Metadata = {
   title: "autoMate",
-  description: "Workflow automation for everyone",
+  description: "This is a Landing Page made for SaaS platforms.",
 };
 
 export default function RootLayout({
